@@ -1,7 +1,7 @@
-{"mart": [
-    "locationpack": {
-        "appversion": 1,
+{"mart": {
+    "locationpacks": [
+       {"appversion": 1,
         "productid": "locationpack.Classic",
-        "free": 1
-    }
-]}
+        "free": 1}
+    ]
+}}
