@@ -2,9 +2,9 @@
     "locationpacks": [
        {"appversion": 1,
         "productid": "locationpack.classic",
-        "free": 1}
+        "free": true}
        {"appversion": 1,
         "productid": "locationpack.around_the_world",
-        "free": 0}
+        "free": false}
     ]
 }}
