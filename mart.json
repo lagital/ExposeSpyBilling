@@ -1,7 +1,7 @@
 {"locationpacks": [
        {"appversion": 1,
         "productid": "locationpack.classic",
-        "free": true}
+        "free": true},
        {"appversion": 1,
         "productid": "locationpack.around_the_world",
         "free": false}
