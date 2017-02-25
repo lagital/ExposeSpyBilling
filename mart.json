@@ -4,5 +4,8 @@
         "free": true},
        {"appversion": 1,
         "productid": "locationpack.around_the_world",
+        "free": false},
+       {"appversion": 2,
+        "productid": "locationpack.apocalypse",
         "free": false}
 ]}
