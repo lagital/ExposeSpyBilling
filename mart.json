@@ -1,11 +1,8 @@
 {"locationpacks": [
        {"appversion": 1,
-        "productid": "locationpack.classic",
-        "free": true},
+        "productid": "locationpack.classic"},
        {"appversion": 1,
-        "productid": "locationpack.around_the_world",
-        "free": false},
+        "productid": "locationpack.around_the_world"},
        {"appversion": 2,
-        "productid": "locationpack.apocalypse",
-        "free": false}
+        "productid": "locationpack.apocalypse"}
 ]}
