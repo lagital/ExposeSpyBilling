@@ -1,8 +1,17 @@
 {"locationpacks": [
-       {"appversion": 1,
-        "productid": ""},
-       {"appversion": 1,
-        "productid": "locationpack.around_the_world"},
-       {"appversion": 2,
-        "productid": "locationpack.apocalypse"}
+       {"version-min": 1,
+        "title-en": "Classic",
+        "title-ru": "Классический",
+        "description-en": "Classic",
+        "description-ru": "Классический"},
+       {"version-min": 1,
+        "title-en": "Around The World",
+        "title-ru": "Вокруг Света",
+        "description-en": "Around The World",
+        "description-ru": "Вокруг Света"},
+       {"version-min": 2,
+        "title-en": "Apocalypse",
+        "title-ru": "Апокалипсис",
+        "description-en": "Apocalypse",
+        "description-ru": "Апокалипсис"}
 ]}
