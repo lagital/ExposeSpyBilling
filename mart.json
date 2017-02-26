@@ -1,21 +1,16 @@
 
 {"languages": ["en", "ru"],
  "locationpacks": [
-       {"version-min": 1,
-       "title-en": "Classic",
-       "title-ru": "Классический",
-       "description-en": "Classic",
-       "description-ru": "Классический"},
+       {"version-min":    1,
+        "title-en":       "Classic",
+        "title-ru":       "Классический",
+        "description-en": "Classic",
+        "description-ru": "Классический",
+        "product-id":     ""},
   
-       {"version-min": 1,
-       "title-en": "Around The World",
-       "title-ru": "Вокруг Света",
-       "description-en": "Around The World",
-       "description-ru": "Вокруг Света"},
+       {"version-min":    1,
+        "product-id":     "locationpack.1.around_the_world"},
   
-       {"version-min": 2,
-       "title-en": "Apocalypse",
-       "title-ru": "Апокалипсис",
-       "description-en": "Apocalypse",
-       "description-ru": "Апокалипсис"}]
+       {"version-min":    2,
+        "product-id":     "locationpack.2.apocalypse"}]
 }
