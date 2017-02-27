@@ -12,8 +12,8 @@
         "product-id":     "locationpack.1.around_the_world"},
   
        {"version-min":    2,
-        "title-en":       "Выборы",
         "title-ru":       "Election",
+        "title-en":       "Выборы",
         "description-en": "Election",
         "description-ru": "Выборы",
         "product-id":     ""},
