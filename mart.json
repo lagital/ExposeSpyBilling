@@ -8,10 +8,6 @@
         "description-ru": "Классический набор содержит наиболее популярные локации для игры. Лучший выбор для новых игроков!",
         "product-id":     ""},
   
-       {"version-min":    2,
-        "title-en":       "Around The World",
-        "title-ru":       "Вокруг Света",
-        "description-en": "Around The World",
-        "description-ru": "Вокруг Света",
-        "product-id":     "pack_Around_The_World"}]
+       {"version-min":    1,
+        "product-id":     "pack_around_the_world"}]
 }
