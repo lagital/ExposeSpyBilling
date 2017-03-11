@@ -4,14 +4,14 @@
        {"version-min":    1,
         "title-en":       "Classic",
         "title-ru":       "Классический",
-        "description-en": "Classic",
-        "description-ru": "Классический",
+        "description-en": "Classic package contains the most popular locations for play. The best choice for new players!",
+        "description-ru": "Классический набор содержит наиболее популярные локации для игры. Лучший выбор для новых игроков!",
         "product-id":     ""},
   
        {"version-min":    2,
-        "title-ru":       "Apocalypse",
-        "title-en":       "Апокалипсис",
-        "description-en": "Election",
-        "description-ru": "Очень длинное описание очень хорошего набора локаций. Повторюсь, очень длинное. И набор очень хороший.",
-        "product-id":     ""}]
+        "title-en":       "Around The World",
+        "title-ru":       "Вокруг Света",
+        "description-en": "Around The World",
+        "description-ru": "Вокруг Света",
+        "product-id":     "pack_Around_The_World"}]
 }
