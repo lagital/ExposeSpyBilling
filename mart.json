@@ -4,8 +4,8 @@
        {"version-min":    1,
         "title-en":       "Classic",
         "title-ru":       "Классический",
-        "description-en": "Classic package contains the most popular locations for play. The best choice for new players!",
-        "description-ru": "Классический набор содержит наиболее популярные локации для игры. Лучший выбор для новых игроков!",
+        "description-en": "Classic package contains the most popular locations for play. The best choice for new players!\n\nLocations: 27\nRoles in location: 7",
+        "description-ru": "Классический набор содержит наиболее популярные локации для игры. Лучший выбор для новых игроков!\n\nЛокаций: 27\nРолей в локации: 7",
         "product-id":     ""},
   
        {"version-min":    1,
