@@ -8,16 +8,10 @@
         "description-ru": "Классический",
         "product-id":     ""},
   
-       {"version-min":    1,
-        "product-id":     "locationpack.1.around_the_world"},
-  
        {"version-min":    2,
         "title-ru":       "Apocalypse",
         "title-en":       "Апокалипсис",
         "description-en": "Election",
         "description-ru": "Очень длинное описание очень хорошего набора локаций. Повторюсь, очень длинное. И набор очень хороший.",
-        "product-id":     ""},
-  
-       {"version-min":    2,
-        "product-id":     "locationpack.2.apocalypse"}]
+        "product-id":     ""}]
 }
