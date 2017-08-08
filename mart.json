@@ -12,5 +12,11 @@
         "title-ru":       "Вокруг Света",
         "description-en": "Enjoy a round-the-world trip!\n\nLocations: 18\nRoles in location: 7",
         "description-ru": "Насладитесь кругосветным путешествием!\n\nЛокаций: 18\nРолей в локации: 7",
-        "product-id":     "pack_around_the_world"}]
+        "product-id":     "pack_around_the_world"},
+        {"version-min":    15,
+        "title-en":       "Zombie Apocalypse",
+        "title-ru":       "Зомби Апокалипсис",
+        "description-en": "Braaaains ...\n\nLocations: 26\nZombies in location: 7",
+        "description-ru": "Мозгиии ...\n\nЛокаций: 26\nЗомби в локации: 7",
+        "product-id":     ""}]
 }
